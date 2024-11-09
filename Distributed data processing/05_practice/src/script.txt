@@ -1,0 +1,9 @@
+DownCommand 7
+ColorCommand blue
+NameCommand Alex
+Right 5
+Up 4
+Left 3
+Down 7
+Name Petr
+Color green

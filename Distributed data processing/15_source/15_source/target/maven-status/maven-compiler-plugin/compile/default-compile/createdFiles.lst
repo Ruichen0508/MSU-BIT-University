@@ -1,0 +1,7 @@
+jms\hello\HelloConsumer.class
+jms\listener\HelloProducer.class
+jms\listener\HelloListener.class
+jms\listener\Main.class
+jms\hello\HelloProducer.class
+jms\hello\Main.class
+jms\listener\HelloConsumer.class
